@@ -1,5 +1,5 @@
 
-image: ghcr.io/MinecraftChromeDev/xfceubuntugitpod:latest
+image: ghcr.io/MinecraftChromeDev/ubuntunovncgitpoddocker:latest
 ports:
 - port: 6080
   onOpen: notify
