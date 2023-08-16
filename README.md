@@ -10,4 +10,6 @@ Click on the following badge to open the GitPod image:
 
 ## Hey, this aint mine! Go look at the project below for more detail!
 
+I just modified it to be more "stable" as the old docker was made almost 2 years ago! :D
+
 https://github.com/traversaro/gitpod-ubuntu-20.04
