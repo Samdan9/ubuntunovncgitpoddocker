@@ -2,6 +2,8 @@ name: Publish Docker Image
 
 on:
   workflow_dispatch:
+  
+permissions: write-all
 
 jobs:
   publish:
@@ -12,7 +14,6 @@ jobs:
       uses: elgohr/Publish-Docker-Github-Action@main
       with:
         name: MinecraftChromeDev/ubuntunovncgitpoddocker
-        permissions: write-all
         username: ${{ github.actor }}
         password: ${{ secrets.GITHUB_TOKEN }}
         workdir: dockerfiles
