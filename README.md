@@ -5,8 +5,11 @@ Updated version of https://github.com/traversaro/gitpod-ubuntu-20.04
 
 ## Instructions  
 Click on the following badge to open the GitPod image:
+
 Open port --80
+
 Run an apt-get update just for some stability (optional)
+
 (Make sure you keep Gitpod open or it will time out!)
 
 [![Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer)
