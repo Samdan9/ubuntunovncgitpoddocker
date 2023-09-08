@@ -15,4 +15,4 @@ Run an apt-get update just for some stability (optional)
 [![Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer)
 
 ## I AM NOT RESPONSIBLE FOR ANY ILLEGAL USE OF THIS PROGRAM
-ALL CREDITS GO TO UBUNTU DEVS, XFCE DEVS, DOCKERHUB, NOVNC DEVS AND TRAVERSARO.
+ALL CREDITS GO TO UBUNTU DEVS, XFCE DEVS, DOCKERHUB, NOVNC DEVS AND TRAVERSARO!
