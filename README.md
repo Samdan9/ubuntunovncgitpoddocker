@@ -1,16 +1,16 @@
 # Xfce client using noVNC
-Vanilla GitPod Ubuntu 20.04 image with Xfce installed, with a few system dependencies enabled and GUI support via [noVNC](https://github.com/novnc/noVNC).
+Vanilla Ona Ubuntu 20.04 image with Xfce installed, with a few system dependencies enabled and GUI support via [noVNC](https://github.com/novnc/noVNC).
 
 Updated version of https://github.com/traversaro/gitpod-ubuntu-20.04
 
 ## Instructions  
-Click on the following badge to open the GitPod image:
+Click on the following badge to open the Ona image:
 
 Open port --80
 
 Run an apt-get update just for some stability (optional)
 
-(Make sure you keep Gitpod open or it will time out!)
+(Make sure you keep Ona open or it will time out!)
 
 [![Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer)
 
